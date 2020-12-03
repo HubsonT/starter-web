@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Janek Kowalski janek@kowalski.com @janekkowalski
 
 # THANKS
 
